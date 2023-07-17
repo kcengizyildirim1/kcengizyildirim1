@@ -24,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kcengizyildirim1&" alt="kcengizyildirim1" /></p>
 
+![snake gif](https://github.com/kcengizyildirim1/kcengizyildirim1/blob/output/github-contribution-grid-snake.gif)
