@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.uniquez.co/wp-content/uploads/2020/02/%D9%84%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%87.jpeg)
+![MasterHead](https://blog.uniquez.co/wp-content/uploads/2020/02/%D9%84%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%87.jpeg)
 <h1 align="center">Hi 👋, I'm Kursad Cengiz Yildirim</h1>
 <h3 align="center">A passionate Junior Fullstack developer from Turkey</h3>
 
