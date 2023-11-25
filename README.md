@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kursad Cengiz Yildirim</h1>
 <h3 align="center">A passionate Junior Fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **REACT**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **k.cengizyildirim@gmail.com**
 
